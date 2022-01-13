@@ -4,7 +4,7 @@ __bold__
 
 # heading 1
 
-## heading 2
+## online edit
 
 [Link to second page](https://jimmycho319.github.io/cse15l-lab-report/first.html)
 
@@ -23,6 +23,7 @@ ___
 
 ```
 inline
+one
 ```
 
 ![image](https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png)

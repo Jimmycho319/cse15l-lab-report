@@ -10,6 +10,5 @@ Firstly, we would need to install the software that will be installing Visual St
 
 ## step 2
 For the second step, we will be accessing our UCSD terminal account in the server eig6.
-![Image](<img width="708" alt="gitsc2" src="https://user-images.githubusercontent.com/97693001/149449442-f88d2d1f-1e7d-4bd1-a5dd-cc2e2c321026.png">
-)
+![Image](https://user-images.githubusercontent.com/97693001/149449442-f88d2d1f-1e7d-4bd1-a5dd-cc2e2c321026.png)
 

@@ -9,3 +9,5 @@ Firstly, we would need to install the software that will be installing Visual St
 ![Image](https://user-images.githubusercontent.com/97693001/149446661-0dba2557-3bae-49c3-8522-87ff4de3c773.png)
 
 ## step 2
+![](ScreenShot2022-01-06at9.31.02AM.png)
+

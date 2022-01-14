@@ -1,2 +1,2 @@
 first edits
-![](Screen Shot 2022-01-06 at 9.31.02 AM.png)
+![](ScreenShot2022-01-06at9.31.02AM.png)

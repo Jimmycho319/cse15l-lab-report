@@ -4,7 +4,7 @@ This Lab will attempt to help someone navigate through some of the terminal comm
 
 
 ## Step 1-installing VScode
-Firstly, we would need to install the software that will be installing Visual Studio which can be accessed using this link: https://code.visualstudio.com/. Take this link and download the correct version according to your OS. Follow the instructions for installing it onto your computer.
+Firstly, we would need to install the software that will be installing Visual Studio which can be accessed using this link: [](https://code.visualstudio.com/). Take this link and download the correct version according to your OS. Follow the instructions for installing it onto your computer.
 
 ![Image](https://user-images.githubusercontent.com/97693001/149446661-0dba2557-3bae-49c3-8522-87ff4de3c773.png)
 

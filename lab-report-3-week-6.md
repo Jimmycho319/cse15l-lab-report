@@ -1,6 +1,6 @@
 # Lab 3
 
-Below is my /ssh/config file. I edited it via the VScode terminal by typing in the commands `touch ~/.ssh/config` to create the file on my local computer and `open ~/.ssh/config` to open and edit it. I put the necessary contents in the file.
+Below is my .ssh/config file. I edited it via the VScode terminal by typing in the commands `touch ~/.ssh/config` to create the file on my local computer and `open ~/.ssh/config` to open and edit it. I put the necessary contents in the file.
 
 ![](https://user-images.githubusercontent.com/97693001/153545052-530ae576-1a12-4f1d-b963-a74262f5d0d0.png)
 

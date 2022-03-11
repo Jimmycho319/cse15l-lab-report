@@ -18,6 +18,9 @@ Inside `530.md` was the text:
 [ref]: /uri
 ```
 
+The correct parse of the links should be `[moon.jpg, ref]`. Therefore, neither of the implementations were corret. The bug was that the second link was not counted as a link when it should have been. Looking at the professor's implementation, I think the only logical explanation for the bug was that there is a completely new way of writing a link on Markdown. This does not even have any parenthesis yet it still it is considered a link. I did some personal tests and came to the conclusion that it was the colon that made whatever come after it a link. To fix this bug, I would implement another if statement that considered the case where if there was something of the format: `[<some text>]: <some link>`, the "some text" portion would come out as a link.
 [!moon](moon.jpg)][ref]
 
 [ref]: /uri
+
+*lkjdlfs* dfdf

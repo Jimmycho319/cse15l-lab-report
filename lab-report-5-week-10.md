@@ -7,9 +7,9 @@ For `530.md`, our implementation printed `[]` while the given implementation pri
 
 Inside `521.md` was the text: 
 `[foo *bar](baz*)`
-The correct output
-
-[foo *bar](baz*)
+The correct output when ran in github was:
+`[baz*]`
+The implementation that we worked on was incorrect in this case. The bug that we ran into was that our code did not recognize `(baz*)` as a link and therefore gave us an empty list when getLink was run. To fix this, I think we could
 
 Inside `530.md` was the text: 
 ```
@@ -17,3 +17,7 @@ Inside `530.md` was the text:
 
 [ref]: /uri
 ```
+
+[!moon](moon.jpg)][ref]
+
+[ref]: /uri
